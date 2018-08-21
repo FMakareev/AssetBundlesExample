@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4238757365
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41acd15d9bb5c295c520bab5cfdd8cfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Scenes/SampleScene.unity
+Dependencies:
+- E:/UnityProjects/AssetBundlesExample/Data/planebundle
+- E:/UnityProjects/AssetBundlesExample/Data/playerbundle

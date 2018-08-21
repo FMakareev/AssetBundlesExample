@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 208940314
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: samplescenebundle
+      Dependencies:
+        Dependency_0: planebundle
+        Dependency_1: playerbundle
+    Info_1:
+      Name: planebundle
+      Dependencies: {}
+    Info_2:
+      Name: playerbundle
+      Dependencies: {}
